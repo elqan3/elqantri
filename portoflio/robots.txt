@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://elqantri.ly/sitemap.xml
